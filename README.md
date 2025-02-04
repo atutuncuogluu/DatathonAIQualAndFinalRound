@@ -1,6 +1,6 @@
 # DatathonAIQualRound
 Dec 16, 2024 ITU Datathon
-
+In this competition, the OpenCLIP, CLIP, YOLO, Swin Transformer, and other ViT models were used
 
 ## Overview
 DatathonAI Qualification Round
