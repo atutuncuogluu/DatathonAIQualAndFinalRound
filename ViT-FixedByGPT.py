@@ -410,10 +410,7 @@ def main():
     # (Opsiyonel) Model kaydetmek
     # torch.save(model.state_dict(), "/kaggle/working/zscore_vit_mlp_adamw.pth")
 
-if __name__ == "__main__":
-    main()
 
-Ahmet Tütüncüoğlu <atutuncuoglu0@gmail.com>, 21 Ara 2024 Cmt, 18:07 tarihinde şunu yazdı:
 ##############################################
 # EĞİTİM KODU (Z-SCORE + ViT MODEL)
 ##############################################
